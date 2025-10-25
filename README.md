@@ -43,7 +43,7 @@ Cada fase tem um **número de inimigos a derrotar**. Após completar o objetivo,
 
 1. **Clone o repositório ou extraia o ZIP:**
    ```bash
-   git clone https://github.com/seuusuario/roguelikegame.git
+   git clone https://github.com/seu-usuario/ArenadeGladiadores.git
    cd roguelikegame
    ```
 
