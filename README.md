@@ -115,15 +115,6 @@ roguelikegame/
 
 ---
 
-## 📈 Próximas Melhorias (sugestões)
-
-- Novos tipos de inimigos (arqueiros, chefes, etc.)
-- Sistema de pontuação e ranking  
-- Poderes especiais ou armas diferentes  
-- Efeitos visuais aprimorados (sangue, partículas, sombras)  
-- Suporte a joystick  
-
----
 
 ## 👨‍💻 Autor
 
