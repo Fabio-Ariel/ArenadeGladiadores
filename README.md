@@ -83,12 +83,12 @@ roguelikegame/
 │   └── cenario/
 │
 ├── sounds/                  # Efeitos sonoros
-│   ├── sword_slice.wav
-│   ├── young_man_being_hurt.wav
+│   ├── sword_slice.ogg
+│   ├── young_man_being_hurt.ogg
 │   
 │
 ├── music/                   # Trilha sonora principal
-│   └── somjogo.wav
+│   └── somjogo.mp3
 │
 └── README.md                # Este arquivo
 ```
